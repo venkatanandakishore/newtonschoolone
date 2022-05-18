@@ -8,4 +8,7 @@ nav {
 
 .companiestext {
     font-size : 25px;  
+.myClass{
+    position:absolute;
+    left:100px;
 }

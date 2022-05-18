@@ -5,3 +5,8 @@ body {
 nav {
   font-size : 30px;
  }
+
+.myClass{
+    position:absolute;
+    left:100px;
+}

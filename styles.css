@@ -12,3 +12,7 @@ nav {
     position:absolute;
     left:100px;
 }
+
+.fromgitlocal {
+    background-color: red;
+}
